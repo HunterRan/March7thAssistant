@@ -20,3 +20,5 @@ if __name__ == "__main__":
     w = MainWindow()
 
     sys.exit(app.exec_())
+
+print("end")
